@@ -1,0 +1,6 @@
+[submodule "aula5/ai_crewai_starter_template"]
+	path = aula5/ai_crewai_starter_template
+	url = https://github.com/viniciusds2020/ai_crewai_starter_template.git
+[submodule "aula7/dify"]
+	path = aula7/dify
+	url = https://github.com/langgenius/dify.git
